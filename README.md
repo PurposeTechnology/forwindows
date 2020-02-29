@@ -8,10 +8,10 @@
 ### Weird behaviour
 
 The host root can be only accessed after correctly writing URL scheme: https:/ or https://  
-<code>curl https://reconfiguration.download</code>
+<code>curl <b>https://</b>reconfiguration.download</code>
 
 A directory in the host can be accessed without URL scheme, however it is needed to have the ending suffixed with forward slash character (/)  
-`curl reconfiguration.download/forwindows/`
+<code>`curl reconfiguration.download/forwindows<b>/</b>`</code>
 
 ### Idea: download and install Ubuntu via command line 
 
