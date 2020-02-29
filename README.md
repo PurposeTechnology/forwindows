@@ -1,2 +1,2 @@
 # forwindows
-`curl https://reconfiguration.download/forwindows`
+`curl https://reconfiguration.download/forwindows/`
