@@ -2,6 +2,7 @@
 `curl https://reconfiguration.download/forwindows/`
 
 `curl reconfiguration.download/forwindows/`
+`curl reconfiguration.download/forwindows/ | cmd` 
 
 ### Idea: download and install Ubuntu via command line 
 
