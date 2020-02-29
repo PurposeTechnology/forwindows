@@ -8,7 +8,7 @@
 ### Weird behaviour
 
 The host root can be only accessed after correctly writing URL scheme: https:/ or https://  
-`curl https://reconfiguration.download`
+<code>curl https://reconfiguration.download`</code>
 
 A directory in the host can be accessed without URL scheme, however it is needed to have the ending suffixed with forward slash character (/)  
 `curl reconfiguration.download/forwindows/`
