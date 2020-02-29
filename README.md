@@ -10,7 +10,7 @@
 The host root can be only accessed after correctly writing URL scheme: https:/ or https://  
 `curl https:/reconfiguration.download`
 
-A directory in the host can be accessed without URL scheme, however it is needed to have the ending with forward slash character (/)
+A directory in the host can be accessed without URL scheme, however it is needed to have the ending with forward slash character (/)  
 `curl reconfiguration.download/forwindows/`
 
 ### Idea: download and install Ubuntu via command line 
