@@ -5,4 +5,4 @@
 
 ### Idea: download and install Ubuntu via command line 
 
-https://stackoverflow.com/a/217983
+https://stackoverflow.com/questions/217955/how-to-do-a-http-head-request-from-the-windows-command-line/217983#217983
