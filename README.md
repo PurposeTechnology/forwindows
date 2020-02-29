@@ -15,6 +15,8 @@ A directory in the host can be accessed without URL scheme, however it is needed
 
 ### Works perfectly on http scheme pages
 `curl help.websiteos.com`
+### Works perfectly well on https scheme pages
+`curl example.com`
 
 ### Idea: download and install Ubuntu via command line 
 
