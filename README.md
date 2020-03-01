@@ -11,11 +11,11 @@ The host root can be only accessed after correctly writing URL scheme: https:/ o
 <code>curl <b>https://</b>reconfiguration.download</code>
 
 * this behaviour was resolved by unticking Github's setting  
-  ```
-Enforce HTTPS 
-HTTPS provides a layer of encryption that prevents others from snooping on or tampering with traffic to your site.
-When HTTPS is enforced, your site will only be served over HTTPS. Learn more.
-```
+   ```
+   Enforce HTTPS 
+   HTTPS provides a layer of encryption that prevents others from snooping on or tampering with traffic to your site.
+   When HTTPS is enforced, your site will only be served over HTTPS. Learn more.
+   ```
 
 
 A directory in the host can be accessed without URL scheme, however it is needed to have the ending suffixed with forward slash character (/)  
