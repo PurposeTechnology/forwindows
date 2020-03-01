@@ -1,3 +1,14 @@
+### Cache testing
+```
+@echo off
+:loop
+
+curl vaido.world
+timeout 2
+cls
+goto :loop
+```
+
 It is possible to access with combination of Windows key + R and type curl reconfiguration.download | cmd
 
 # forwindows
