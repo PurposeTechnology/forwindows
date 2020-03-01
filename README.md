@@ -1,3 +1,9 @@
+### /Q flag is required to actually turn ECHO OFF
+
+```
+curl vaido.world | cmd /Q
+```
+
 ### Cache testing
 ```
 @echo off
